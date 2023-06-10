@@ -1,0 +1,8 @@
+Added purchase.html
+
+
+Added Vendors, Purchase,PurchaseItems,Pre_Purchase,Purchasebook for the purchase system
+
+Added Cashcats(Cashflow Categories) for Count_Credit
+
+New froreign keys to  Cashbook
