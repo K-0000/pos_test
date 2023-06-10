@@ -6,3 +6,5 @@ Added Vendors, Purchase,PurchaseItems,Pre_Purchase,Purchasebook for the purchase
 Added Cashcats(Cashflow Categories) for Count_Credit
 
 New froreign keys to  Cashbook
+
+Added /Purchase in url and Views
